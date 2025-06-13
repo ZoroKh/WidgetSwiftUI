@@ -1,0 +1,50 @@
+# Xcode & Swift
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+
+# Swift Package Manager
+/.build/
+/Packages/
+/Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# SwiftPM Xcode integration
+.swiftpm/xcode/package.xcworkspace/xcuserdata
+
+# User-specific files
+*.moved-aside
+*.swp
+*.swo
+*.DS_Store
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Logs
+*.log
+
+# Other
+*.orig
+*.rej
+
+# VSCode
+.vscode/
+.history/
